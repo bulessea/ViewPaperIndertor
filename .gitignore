@@ -1,0 +1,11 @@
+/bin
+/gen
+.classpath
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+.project
+lint.xml
